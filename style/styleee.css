@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-color: rgba(207, 179, 250, 0.721);
+    color:rgba(23, 22, 24, 0.79);
+    margin: 130px;
+}
+.btn{
+    margin-top: 69px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+.btn:hover{
+    background-color: rgb(184, 192, 223);
+    color: rgb(149, 57, 236);
+}
